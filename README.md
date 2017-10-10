@@ -1,2 +1,2 @@
 # Лабораторна робота №1
-![Фотка](/kpp-1/Screenshot.png)
+![Фотка](https://github.com/Bnastyona/kpp-1/blob/master/Screenshot.png)
