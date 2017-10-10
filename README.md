@@ -1,2 +1,2 @@
 # 
-![Фотка](kpp-1/Screenshot.png)
+![Фотка](/kpp-1/Screenshot.png)
